@@ -529,13 +529,16 @@ administration.html
 
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/1b271411-fffe-426f-9561-f0a2182876ef)
-![image](https://github.com/user-attachments/assets/211edac8-781d-40ac-bc56-ed09cfa89935)
 
-![image](https://github.com/user-attachments/assets/10baa8a2-f5d7-490b-a95d-504aa9f802cc)
-![image](https://github.com/user-attachments/assets/d58f7002-474d-4920-b86e-376f46651b10)
-![image](https://github.com/user-attachments/assets/0defda43-f2b5-4cd1-ad97-e7e4582cb8a8)
+![image](https://github.com/user-attachments/assets/407f0475-d064-4496-a727-398479623004)
 
+![image](https://github.com/user-attachments/assets/160d1827-6c59-48f7-ab18-1b2471303dca)
+
+![image](https://github.com/user-attachments/assets/26c5c8b6-3a1c-4bac-a52d-09dbb97e5e88)
+
+![image](https://github.com/user-attachments/assets/b8a7ed37-947a-47e8-ac4f-f42bf24f53c5)
+
+![image](https://github.com/user-attachments/assets/850aaff4-6aa7-4d09-87e2-7dcd3522f03c)
 
 
 ## RESULT:
